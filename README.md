@@ -1,2 +1,2 @@
 # Portfolio
-https://github.com/mpvsaideep/Portfolio.git
+https://mpvsaideep.github.io/Portfolio/
